@@ -18,7 +18,7 @@ public class Main {
 			}
 		}
 		
-		sysout
+		System.out.println();
 		
 		int _value = sc.nextInt();
 		
