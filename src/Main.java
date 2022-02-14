@@ -18,6 +18,8 @@ public class Main {
 			}
 		}
 		
+		sysout
+		
 		int _value = sc.nextInt();
 		
 		for(int i = 0; i < _matrix.length; i ++) {
